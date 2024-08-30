@@ -1,0 +1,28 @@
+export const userRows = [
+  {
+    id: 1,
+    img: "https://ik.imagekit.io/os33grffu/WhatsApp_Image_2024-03-28_at_9.51.58_PM-removebg-preview%20(2).png?updatedAt=1721845473127",
+    fullName: "Hasan Tariq",
+    email: "hkhankor@gmail.com",
+    phone: "123 456 789",
+    createdAt: "01.02.2023",
+    verified: true,
+    status: "online",
+    about: "Hasab is a dedicated individual with a passion for technology and innovation. In his free time, he enjoys exploring new tech trends and contributing to open-source projects.",
+    role: "Software Engineer",
+    salaryExpectation: "$100,000",
+  },
+  {
+    id: 2,
+    img: "https://ik.imagekit.io/os33grffu/66861052_2405291509738735_5006954951054721024_n.jpg?updatedAt=1724346573426",
+    fullName: "Moiz Shah",
+    email: "moiz.ali@example.com",
+    phone: "123 456 789",
+    createdAt: "01.02.2023",
+    verified: true,
+    status: "online",
+    about: "Moiz is a creative designer with a keen eye for aesthetics. He is passionate about creating visually stunning designs and enjoys working on projects that challenge his creativity.",
+    role: "UI/UX Designer",
+    salaryExpectation: "$90,000",
+  },
+];
